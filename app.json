@@ -19,13 +19,13 @@
     }],
     "env": {
         "App_ID": {
-            "description": "Enter the Application Id of the app you want to deploy. If you don't have an app yet, register a new one: http://applications.mercadolibre.com"
+            "description": "1028329323646773"
         },
         "Secret_Key": {
-            "description": "Enter it's Secret Key."
+            "description": "WSFj20MrdRsRuFeFA40qNGGN6s2lVlMn"
         },
         "Redirect_URI": {
-            "description": "Your application url. Use https://{yourappname}.herokuapp.com. Note you'll need to update this value for your app as well, through your My Apps dashboard."
+            "description": "https://gsreptesteml.herokuapp.com"
         }
     }
 }
